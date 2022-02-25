@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         OblastKR oblastKR1 = OblastKR.Chuy;
-        System.out.println(OblastKR.Chuy);
+        //System.out.println(OblastKR.Chuy);
 //        OblastKR oblastKR1 = OblastKR.Talas;
 //        OblastKR oblastKR1 = OblastKR.Naryn;
 //        OblastKR oblastKR1 = OblastKR.Osh;
